@@ -15,6 +15,13 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+SingIn
+
 ![alt text](screens/Screenshot_20230418-150747.jpg)
+<img src="screens/Screenshot_20230418-150747.jpg" alt="alt text" width="200", height="360"/>
+
+SignUp
 
 ![alt text](screens/Screenshot_20230418-150800.jpg)
+<img src="screens/Screenshot_20230418-150800.jpg" alt="alt text" width="200", height="360"/>
+
